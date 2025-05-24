@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyDWLxfF05osjLGC-FD9F971bl-8Y6UQl28';
+const apiKey = 'Inser your API key here';
 const backendUrl = 'process_question.php';
 
 async function askAI() {
