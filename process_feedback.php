@@ -30,7 +30,7 @@ if (empty($question) || empty($answer)) {
     exit;
 }
 
-$apiKey = 'AIzaSyDWLxfF05osjLGC-FD9F971bl-8Y6UQl28';
+$apiKey = 'Insert your API key';
 
 $geminiApiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=' . $apiKey;
 
